@@ -1,0 +1,44 @@
+﻿<xapCache source="C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\GameResources.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="2/28/2014 2:09:19 PM">
+  <file source="C:\code\csharp\MonoGameTest\GameResources\GameResources\Background.png" archivePath="Background.png" lastWriteTime="2/28/2014 1:37:59 PM" />
+  <file source="C:\code\csharp\MonoGameTest\GameResources\GameResources\PhoneGameThumb.png" archivePath="PhoneGameThumb.png" lastWriteTime="2/28/2014 1:37:59 PM" />
+  <file source="C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2/28/2014 2:09:19 PM" />
+  <file source="C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2/28/2014 1:38:34 PM" />
+  <file source="C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\GameResources.dll" archivePath="GameResources.dll" lastWriteTime="2/28/2014 2:09:18 PM" />
+  <file source="C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\back_btn50.xnb" archivePath="Content\back_btn50.xnb" lastWriteTime="2/28/2014 2:09:16 PM" />
+  <file source="C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\block40.xnb" archivePath="Content\block40.xnb" lastWriteTime="2/28/2014 2:09:16 PM" />
+  <file source="C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\bot40.xnb" archivePath="Content\bot40.xnb" lastWriteTime="2/28/2014 2:09:16 PM" />
+  <file source="C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\box40.xnb" archivePath="Content\box40.xnb" lastWriteTime="2/28/2014 2:09:16 PM" />
+  <file source="C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\canMove40.xnb" archivePath="Content\canMove40.xnb" lastWriteTime="2/28/2014 2:09:16 PM" />
+  <file source="C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\cannotMove40.xnb" archivePath="Content\cannotMove40.xnb" lastWriteTime="2/28/2014 2:09:16 PM" />
+  <file source="C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\down50.xnb" archivePath="Content\down50.xnb" lastWriteTime="2/28/2014 2:09:16 PM" />
+  <file source="C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\episodeScreen.xnb" archivePath="Content\episodeScreen.xnb" lastWriteTime="2/28/2014 2:09:17 PM" />
+  <file source="C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\help50.xnb" archivePath="Content\help50.xnb" lastWriteTime="2/28/2014 2:09:17 PM" />
+  <file source="C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\icon@114.xnb" archivePath="Content\icon@114.xnb" lastWriteTime="2/28/2014 2:09:17 PM" />
+  <file source="C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\icon@120.xnb" archivePath="Content\icon@120.xnb" lastWriteTime="2/28/2014 2:09:17 PM" />
+  <file source="C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\icon@29.xnb" archivePath="Content\icon@29.xnb" lastWriteTime="2/28/2014 2:09:17 PM" />
+  <file source="C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\icon@57.xnb" archivePath="Content\icon@57.xnb" lastWriteTime="2/28/2014 2:09:17 PM" />
+  <file source="C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\icon@58.xnb" archivePath="Content\icon@58.xnb" lastWriteTime="2/28/2014 2:09:17 PM" />
+  <file source="C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\icon@80.xnb" archivePath="Content\icon@80.xnb" lastWriteTime="2/28/2014 2:09:17 PM" />
+  <file source="C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\lock.xnb" archivePath="Content\lock.xnb" lastWriteTime="2/28/2014 2:09:17 PM" />
+  <file source="C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\menu.xnb" archivePath="Content\menu.xnb" lastWriteTime="2/28/2014 2:09:17 PM" />
+  <file source="C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\menu_btn50.xnb" archivePath="Content\menu_btn50.xnb" lastWriteTime="2/28/2014 2:09:17 PM" />
+  <file source="C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\next_btn50.xnb" archivePath="Content\next_btn50.xnb" lastWriteTime="2/28/2014 2:09:17 PM" />
+  <file source="C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\pause50.xnb" archivePath="Content\pause50.xnb" lastWriteTime="2/28/2014 2:09:17 PM" />
+  <file source="C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\popup.xnb" archivePath="Content\popup.xnb" lastWriteTime="2/28/2014 2:09:17 PM" />
+  <file source="C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\popup_adv_completed.xnb" archivePath="Content\popup_adv_completed.xnb" lastWriteTime="2/28/2014 2:09:17 PM" />
+  <file source="C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\popup_instruction.xnb" archivePath="Content\popup_instruction.xnb" lastWriteTime="2/28/2014 2:09:17 PM" />
+  <file source="C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\radiooff_btn50.xnb" archivePath="Content\radiooff_btn50.xnb" lastWriteTime="2/28/2014 2:09:17 PM" />
+  <file source="C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\radioon_btn50.xnb" archivePath="Content\radioon_btn50.xnb" lastWriteTime="2/28/2014 2:09:17 PM" />
+  <file source="C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\restart_btn50.xnb" archivePath="Content\restart_btn50.xnb" lastWriteTime="2/28/2014 2:09:17 PM" />
+  <file source="C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\screen.xnb" archivePath="Content\screen.xnb" lastWriteTime="2/28/2014 2:09:17 PM" />
+  <file source="C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\SplashScreen.xnb" archivePath="Content\SplashScreen.xnb" lastWriteTime="2/28/2014 2:09:17 PM" />
+  <file source="C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\spot40.xnb" archivePath="Content\spot40.xnb" lastWriteTime="2/28/2014 2:09:17 PM" />
+  <file source="C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\up50.xnb" archivePath="Content\up50.xnb" lastWriteTime="2/28/2014 2:09:17 PM" />
+  <file source="C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\wingame_screen.xnb" archivePath="Content\wingame_screen.xnb" lastWriteTime="2/28/2014 2:09:17 PM" />
+  <file source="C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\clap.xnb" archivePath="Content\clap.xnb" lastWriteTime="2/28/2014 2:09:17 PM" />
+  <file source="C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\ingame.xnb" archivePath="Content\ingame.xnb" lastWriteTime="2/28/2014 2:09:18 PM" />
+  <file source="C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\run.xnb" archivePath="Content\run.xnb" lastWriteTime="2/28/2014 2:09:18 PM" />
+  <file source="C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\clap.wma" archivePath="Content\clap.wma" lastWriteTime="2/28/2014 2:09:17 PM" />
+  <file source="C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\ingame.wma" archivePath="Content\ingame.wma" lastWriteTime="2/28/2014 2:09:18 PM" />
+  <file source="C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\run.wma" archivePath="Content\run.wma" lastWriteTime="2/28/2014 2:09:18 PM" />
+</xapCache>

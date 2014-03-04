@@ -1,0 +1,356 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>back_btn50.png</Source>
+      <Name>back_btn50</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\back_btn50.xnb</Output>
+      <Time>2014-02-28T13:38:21.2961438-05:00</Time>
+    </Item>
+    <Item>
+      <Source>block40.png</Source>
+      <Name>block40</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\block40.xnb</Output>
+      <Time>2014-02-28T13:38:21.3001465-05:00</Time>
+    </Item>
+    <Item>
+      <Source>bot40.png</Source>
+      <Name>bot40</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\bot40.xnb</Output>
+      <Time>2014-02-28T13:38:21.3021478-05:00</Time>
+    </Item>
+    <Item>
+      <Source>box40.png</Source>
+      <Name>box40</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\box40.xnb</Output>
+      <Time>2014-02-28T13:38:21.3041491-05:00</Time>
+    </Item>
+    <Item>
+      <Source>canMove40.png</Source>
+      <Name>canMove40</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\canMove40.xnb</Output>
+      <Time>2014-02-28T13:38:21.3071513-05:00</Time>
+    </Item>
+    <Item>
+      <Source>cannotMove40.png</Source>
+      <Name>cannotMove40</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\cannotMove40.xnb</Output>
+      <Time>2014-02-28T13:38:21.3091523-05:00</Time>
+    </Item>
+    <Item>
+      <Source>down50.png</Source>
+      <Name>down50</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\down50.xnb</Output>
+      <Time>2014-02-28T13:38:21.3131549-05:00</Time>
+    </Item>
+    <Item>
+      <Source>episodeScreen.png</Source>
+      <Name>episodeScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\episodeScreen.xnb</Output>
+      <Time>2014-02-28T13:38:21.3151567-05:00</Time>
+    </Item>
+    <Item>
+      <Source>help50.png</Source>
+      <Name>help50</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\help50.xnb</Output>
+      <Time>2014-02-28T13:38:21.3171576-05:00</Time>
+    </Item>
+    <Item>
+      <Source>icon@114.png</Source>
+      <Name>icon@114</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\icon@114.xnb</Output>
+      <Time>2014-02-28T13:38:21.3281651-05:00</Time>
+    </Item>
+    <Item>
+      <Source>icon@120.png</Source>
+      <Name>icon@120</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\icon@120.xnb</Output>
+      <Time>2014-02-28T13:38:21.3301665-05:00</Time>
+    </Item>
+    <Item>
+      <Source>icon@29.png</Source>
+      <Name>icon@29</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\icon@29.xnb</Output>
+      <Time>2014-02-28T13:38:21.3191589-05:00</Time>
+    </Item>
+    <Item>
+      <Source>icon@57.png</Source>
+      <Name>icon@57</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\icon@57.xnb</Output>
+      <Time>2014-02-28T13:38:21.3211607-05:00</Time>
+    </Item>
+    <Item>
+      <Source>icon@58.png</Source>
+      <Name>icon@58</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\icon@58.xnb</Output>
+      <Time>2014-02-28T13:38:21.323162-05:00</Time>
+    </Item>
+    <Item>
+      <Source>icon@80.png</Source>
+      <Name>icon@80</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\icon@80.xnb</Output>
+      <Time>2014-02-28T13:38:21.3261638-05:00</Time>
+    </Item>
+    <Item>
+      <Source>lock.png</Source>
+      <Name>lock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\lock.xnb</Output>
+      <Time>2014-02-28T13:38:21.3341691-05:00</Time>
+    </Item>
+    <Item>
+      <Source>menu.png</Source>
+      <Name>menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\menu.xnb</Output>
+      <Time>2014-02-28T13:38:21.3361705-05:00</Time>
+    </Item>
+    <Item>
+      <Source>menu_btn50.png</Source>
+      <Name>menu_btn50</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\menu_btn50.xnb</Output>
+      <Time>2014-02-28T13:38:21.3381718-05:00</Time>
+    </Item>
+    <Item>
+      <Source>next_btn50.png</Source>
+      <Name>next_btn50</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\next_btn50.xnb</Output>
+      <Time>2014-02-28T13:38:21.3401732-05:00</Time>
+    </Item>
+    <Item>
+      <Source>pause50.png</Source>
+      <Name>pause50</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\pause50.xnb</Output>
+      <Time>2014-02-28T13:38:21.3421745-05:00</Time>
+    </Item>
+    <Item>
+      <Source>popup.png</Source>
+      <Name>popup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\popup.xnb</Output>
+      <Time>2014-02-28T13:38:21.3451763-05:00</Time>
+    </Item>
+    <Item>
+      <Source>popup_adv_completed.png</Source>
+      <Name>popup_adv_completed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\popup_adv_completed.xnb</Output>
+      <Time>2014-02-28T13:38:21.3471776-05:00</Time>
+    </Item>
+    <Item>
+      <Source>popup_instruction.png</Source>
+      <Name>popup_instruction</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\popup_instruction.xnb</Output>
+      <Time>2014-02-28T13:38:21.3486042-05:00</Time>
+    </Item>
+    <Item>
+      <Source>radiooff_btn50.png</Source>
+      <Name>radiooff_btn50</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\radiooff_btn50.xnb</Output>
+      <Time>2014-02-28T13:38:21.3506072-05:00</Time>
+    </Item>
+    <Item>
+      <Source>radioon_btn50.png</Source>
+      <Name>radioon_btn50</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\radioon_btn50.xnb</Output>
+      <Time>2014-02-28T13:38:21.3526085-05:00</Time>
+    </Item>
+    <Item>
+      <Source>restart_btn50.png</Source>
+      <Name>restart_btn50</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\restart_btn50.xnb</Output>
+      <Time>2014-02-28T13:38:21.3546099-05:00</Time>
+    </Item>
+    <Item>
+      <Source>screen.png</Source>
+      <Name>screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\screen.xnb</Output>
+      <Time>2014-02-28T13:38:21.3596134-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SplashScreen.png</Source>
+      <Name>SplashScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\SplashScreen.xnb</Output>
+      <Time>2014-02-28T13:38:21.3616143-05:00</Time>
+    </Item>
+    <Item>
+      <Source>spot40.png</Source>
+      <Name>spot40</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\spot40.xnb</Output>
+      <Time>2014-02-28T13:38:21.3636157-05:00</Time>
+    </Item>
+    <Item>
+      <Source>up50.png</Source>
+      <Name>up50</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\up50.xnb</Output>
+      <Time>2014-02-28T13:38:21.365617-05:00</Time>
+    </Item>
+    <Item>
+      <Source>wingame_screen.png</Source>
+      <Name>wingame_screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\wingame_screen.xnb</Output>
+      <Time>2014-02-28T13:38:21.3686192-05:00</Time>
+    </Item>
+    <Item>
+      <Source>clap.mp3</Source>
+      <Name>clap</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\clap.xnb</Output>
+      <Extra>C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\clap.wma</Extra>
+      <Time>2014-02-28T13:38:21.3111536-05:00</Time>
+    </Item>
+    <Item>
+      <Source>ingame.mp3</Source>
+      <Name>ingame</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\ingame.xnb</Output>
+      <Extra>C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\ingame.wma</Extra>
+      <Time>2014-02-28T13:38:21.3321678-05:00</Time>
+    </Item>
+    <Item>
+      <Source>run.mp3</Source>
+      <Name>run</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\run.xnb</Output>
+      <Extra>C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\run.wma</Extra>
+      <Time>2014-02-28T13:38:21.3576121-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{176C00A0-066F-4962-997A-02FF83F4BC90}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\code\csharp\MonoGameTest\GameResources\GameResourcesContent\</RootDirectory>
+      <LoggerRootDirectory>C:\code\csharp\MonoGameTest\GameResources\GameResources\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\code\csharp\MonoGameTest\GameResources\GameResources\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\code\csharp\MonoGameTest\GameResources\GameResources\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2012-09-06T15:52:54-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2012-09-06T15:52:54-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2012-09-06T15:52:54-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2012-09-06T15:52:54-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2012-09-06T15:52:54-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2012-09-06T15:52:54-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-02-10T10:47:08.2075195-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,5 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="GameResources" EntryPointType="GameResources.MainScene" RuntimeVersion="3.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="GameResources" Source="GameResources.dll" />
+  </Deployment.Parts>
+</Deployment>

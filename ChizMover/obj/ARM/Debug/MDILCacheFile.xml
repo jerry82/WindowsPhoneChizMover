@@ -1,0 +1,64 @@
+﻿<xapCache source="C:\code\csharp\ChizMover\ChizMover\bin\WindowsPhone\ARM\Debug\ChizMover_Debug_ARM.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="3/4/2014 3:22:33 PM">
+  <file source="C:\code\csharp\ChizMover\ChizMover\obj\ARM\Debug\ChizMover.dll" archivePath="ChizMover.dll" lastWriteTime="3/4/2014 3:22:31 PM" />
+  <file source="C:\code\csharp\ChizMover\ChizMover\Content\back_btn50.xnb" archivePath="Content\back_btn50.xnb" lastWriteTime="2/28/2014 1:40:50 PM" />
+  <file source="C:\code\csharp\ChizMover\ChizMover\Content\block40.xnb" archivePath="Content\block40.xnb" lastWriteTime="2/28/2014 1:40:50 PM" />
+  <file source="C:\code\csharp\ChizMover\ChizMover\Content\bot40.xnb" archivePath="Content\bot40.xnb" lastWriteTime="2/28/2014 1:40:50 PM" />
+  <file source="C:\code\csharp\ChizMover\ChizMover\Content\box40.xnb" archivePath="Content\box40.xnb" lastWriteTime="2/28/2014 1:40:50 PM" />
+  <file source="C:\code\csharp\ChizMover\ChizMover\Content\canMove40.xnb" archivePath="Content\canMove40.xnb" lastWriteTime="2/28/2014 1:40:50 PM" />
+  <file source="C:\code\csharp\ChizMover\ChizMover\Content\cannotMove40.xnb" archivePath="Content\cannotMove40.xnb" lastWriteTime="2/28/2014 1:40:50 PM" />
+  <file source="C:\code\csharp\ChizMover\ChizMover\Content\clap.xnb" archivePath="Content\clap.xnb" lastWriteTime="2/28/2014 1:40:50 PM" />
+  <file source="C:\code\csharp\ChizMover\ChizMover\Content\down50.xnb" archivePath="Content\down50.xnb" lastWriteTime="2/28/2014 1:40:50 PM" />
+  <file source="C:\code\csharp\ChizMover\ChizMover\Content\episodeScreen.xnb" archivePath="Content\episodeScreen.xnb" lastWriteTime="2/28/2014 1:40:50 PM" />
+  <file source="C:\code\csharp\ChizMover\ChizMover\Content\help50.xnb" archivePath="Content\help50.xnb" lastWriteTime="2/28/2014 1:40:50 PM" />
+  <file source="C:\code\csharp\ChizMover\ChizMover\Content\icon@114.xnb" archivePath="Content\icon@114.xnb" lastWriteTime="2/28/2014 1:40:50 PM" />
+  <file source="C:\code\csharp\ChizMover\ChizMover\Content\icon@120.xnb" archivePath="Content\icon@120.xnb" lastWriteTime="2/28/2014 1:40:50 PM" />
+  <file source="C:\code\csharp\ChizMover\ChizMover\Content\icon@29.xnb" archivePath="Content\icon@29.xnb" lastWriteTime="2/28/2014 1:40:50 PM" />
+  <file source="C:\code\csharp\ChizMover\ChizMover\Content\icon@57.xnb" archivePath="Content\icon@57.xnb" lastWriteTime="2/28/2014 1:40:50 PM" />
+  <file source="C:\code\csharp\ChizMover\ChizMover\Content\icon@58.xnb" archivePath="Content\icon@58.xnb" lastWriteTime="2/28/2014 1:40:50 PM" />
+  <file source="C:\code\csharp\ChizMover\ChizMover\Content\icon@80.xnb" archivePath="Content\icon@80.xnb" lastWriteTime="2/28/2014 1:40:50 PM" />
+  <file source="C:\code\csharp\ChizMover\ChizMover\Content\ingame.xnb" archivePath="Content\ingame.xnb" lastWriteTime="2/28/2014 1:40:50 PM" />
+  <file source="C:\code\csharp\ChizMover\ChizMover\Content\lock.xnb" archivePath="Content\lock.xnb" lastWriteTime="2/28/2014 1:40:50 PM" />
+  <file source="C:\code\csharp\ChizMover\ChizMover\Content\menu.xnb" archivePath="Content\menu.xnb" lastWriteTime="2/28/2014 1:40:50 PM" />
+  <file source="C:\code\csharp\ChizMover\ChizMover\Content\menu_btn50.xnb" archivePath="Content\menu_btn50.xnb" lastWriteTime="2/28/2014 1:40:50 PM" />
+  <file source="C:\code\csharp\ChizMover\ChizMover\Content\next_btn50.xnb" archivePath="Content\next_btn50.xnb" lastWriteTime="2/28/2014 1:40:50 PM" />
+  <file source="C:\code\csharp\ChizMover\ChizMover\Content\pause50.xnb" archivePath="Content\pause50.xnb" lastWriteTime="2/28/2014 1:40:50 PM" />
+  <file source="C:\code\csharp\ChizMover\ChizMover\Content\popup.xnb" archivePath="Content\popup.xnb" lastWriteTime="2/28/2014 1:40:50 PM" />
+  <file source="C:\code\csharp\ChizMover\ChizMover\Content\popup_adv_completed.xnb" archivePath="Content\popup_adv_completed.xnb" lastWriteTime="2/28/2014 1:40:50 PM" />
+  <file source="C:\code\csharp\ChizMover\ChizMover\Content\popup_instruction.xnb" archivePath="Content\popup_instruction.xnb" lastWriteTime="2/28/2014 1:40:50 PM" />
+  <file source="C:\code\csharp\ChizMover\ChizMover\Content\radiooff_btn50.xnb" archivePath="Content\radiooff_btn50.xnb" lastWriteTime="2/28/2014 1:40:50 PM" />
+  <file source="C:\code\csharp\ChizMover\ChizMover\Content\radioon_btn50.xnb" archivePath="Content\radioon_btn50.xnb" lastWriteTime="2/28/2014 1:40:50 PM" />
+  <file source="C:\code\csharp\ChizMover\ChizMover\Content\restart_btn50.xnb" archivePath="Content\restart_btn50.xnb" lastWriteTime="2/28/2014 1:40:50 PM" />
+  <file source="C:\code\csharp\ChizMover\ChizMover\Content\run.xnb" archivePath="Content\run.xnb" lastWriteTime="2/28/2014 1:40:50 PM" />
+  <file source="C:\code\csharp\ChizMover\ChizMover\Content\screen.xnb" archivePath="Content\screen.xnb" lastWriteTime="2/28/2014 1:40:50 PM" />
+  <file source="C:\code\csharp\ChizMover\ChizMover\Content\SplashScreen.xnb" archivePath="Content\SplashScreen.xnb" lastWriteTime="2/28/2014 1:40:50 PM" />
+  <file source="C:\code\csharp\ChizMover\ChizMover\Content\spot40.xnb" archivePath="Content\spot40.xnb" lastWriteTime="2/28/2014 1:40:50 PM" />
+  <file source="C:\code\csharp\ChizMover\ChizMover\Content\up50.xnb" archivePath="Content\up50.xnb" lastWriteTime="2/28/2014 1:40:50 PM" />
+  <file source="C:\code\csharp\ChizMover\ChizMover\Content\wingame_screen.xnb" archivePath="Content\wingame_screen.xnb" lastWriteTime="2/28/2014 1:40:50 PM" />
+  <file source="C:\code\csharp\ChizMover\ChizMover\sodokuDB.sqlite" archivePath="sodokuDB.sqlite" lastWriteTime="3/4/2014 9:41:04 AM" />
+  <file source="C:\code\csharp\ChizMover\ChizMover\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="12/23/2012 3:11:54 PM" />
+  <file source="C:\code\csharp\ChizMover\ChizMover\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="12/23/2012 3:11:56 PM" />
+  <file source="C:\code\csharp\ChizMover\ChizMover\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="12/23/2012 3:11:56 PM" />
+  <file source="C:\code\csharp\ChizMover\ChizMover\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="12/23/2012 3:11:56 PM" />
+  <file source="C:\code\csharp\ChizMover\ChizMover\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="12/23/2012 3:11:56 PM" />
+  <file source="C:\code\csharp\ChizMover\ChizMover\Content\clap.wma" archivePath="Content\clap.wma" lastWriteTime="2/28/2014 1:40:50 PM" />
+  <file source="C:\code\csharp\ChizMover\ChizMover\Content\ingame.wma" archivePath="Content\ingame.wma" lastWriteTime="2/28/2014 1:40:50 PM" />
+  <file source="C:\code\csharp\ChizMover\ChizMover\Content\run.wma" archivePath="Content\run.wma" lastWriteTime="2/28/2014 1:40:50 PM" />
+  <file source="C:\code\csharp\ChizMover\ChizMover\bin\WindowsPhone\ARM\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="3/4/2014 3:17:00 PM" />
+  <file source="C:\code\csharp\ChizMover\ChizMover\bin\WindowsPhone\ARM\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="12/23/2012 3:11:54 PM" />
+  <file source="C:\code\csharp\ChizMover\ChizMover\bin\WindowsPhone\ARM\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="12/23/2012 3:11:56 PM" />
+  <file source="C:\Program Files (x86)\MonoGame\v3.0\Assemblies\WindowsPhone\ARM\MonoGame.Framework.dll" archivePath="MonoGame.Framework.dll" lastWriteTime="2/25/2013 11:42:12 AM" />
+  <file source="C:\code\csharp\ChizMover\ARM\Debug\Sqlite\Sqlite.winmd" archivePath="Sqlite.winmd" lastWriteTime="3/4/2014 3:16:59 PM" />
+  <file source="C:\Program Files (x86)\MonoGame\v3.0\Assemblies\WindowsPhone\ARM\SharpDX.Direct3D11.dll" archivePath="SharpDX.Direct3D11.dll" lastWriteTime="12/28/2012 11:17:34 AM" />
+  <file source="C:\Program Files (x86)\MonoGame\v3.0\Assemblies\WindowsPhone\ARM\SharpDX.dll" archivePath="SharpDX.dll" lastWriteTime="12/28/2012 11:17:34 AM" />
+  <file source="C:\Program Files (x86)\MonoGame\v3.0\Assemblies\WindowsPhone\ARM\SharpDX.XAudio2.dll" archivePath="SharpDX.XAudio2.dll" lastWriteTime="12/28/2012 11:17:34 AM" />
+  <file source="C:\Program Files (x86)\MonoGame\v3.0\Assemblies\WindowsPhone\ARM\SharpDX.MediaFoundation.dll" archivePath="SharpDX.MediaFoundation.dll" lastWriteTime="12/28/2012 11:17:34 AM" />
+  <file source="C:\Program Files (x86)\MonoGame\v3.0\Assemblies\WindowsPhone\ARM\SharpDX.DXGI.dll" archivePath="SharpDX.DXGI.dll" lastWriteTime="12/28/2012 11:17:34 AM" />
+  <file source="C:\Program Files (x86)\MonoGame\v3.0\Assemblies\WindowsPhone\ARM\SharpDX.Direct3D11.xml" archivePath="SharpDX.Direct3D11.xml" lastWriteTime="12/28/2012 11:17:34 AM" />
+  <file source="C:\Program Files (x86)\MonoGame\v3.0\Assemblies\WindowsPhone\ARM\SharpDX.xml" archivePath="SharpDX.xml" lastWriteTime="12/28/2012 11:17:34 AM" />
+  <file source="C:\Program Files (x86)\MonoGame\v3.0\Assemblies\WindowsPhone\ARM\SharpDX.XAudio2.xml" archivePath="SharpDX.XAudio2.xml" lastWriteTime="12/28/2012 11:17:34 AM" />
+  <file source="C:\Program Files (x86)\MonoGame\v3.0\Assemblies\WindowsPhone\ARM\SharpDX.MediaFoundation.xml" archivePath="SharpDX.MediaFoundation.xml" lastWriteTime="12/28/2012 11:17:34 AM" />
+  <file source="C:\Program Files (x86)\MonoGame\v3.0\Assemblies\WindowsPhone\ARM\SharpDX.DXGI.xml" archivePath="SharpDX.DXGI.xml" lastWriteTime="12/28/2012 11:17:34 AM" />
+  <file source="C:\code\csharp\ChizMover\ARM\Debug\Sqlite\Sqlite.dll" archivePath="Sqlite.dll" lastWriteTime="3/4/2014 3:16:59 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\SQLite.WP80\3.8.3.1\Redist\Debug\ARM\sqlite3.dll" archivePath="sqlite3.dll" lastWriteTime="3/4/2014 9:06:15 AM" />
+  <file source="C:\code\csharp\ChizMover\ChizMover\bin\WindowsPhone\ARM\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="3/4/2014 3:17:00 PM" />
+</xapCache>
